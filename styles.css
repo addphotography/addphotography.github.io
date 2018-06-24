@@ -130,3 +130,23 @@ label {
     height:200px;
   }
 }
+@media only screen and (max-width: 1200px) and (min-width: 600px) {
+  .hello {
+    height: 200px;
+  }
+  .content {
+    margin: 0;
+  }
+  .box {
+    padding: 17px;
+  }
+  .custom {
+    width: 362px;
+    height: 300px;
+    padding-bottom: 25px;
+  }
+  .custom2 {
+    width: 362px;
+    height:200px;
+  }
+}
