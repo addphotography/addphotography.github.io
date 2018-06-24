@@ -142,10 +142,13 @@ label {
     padding: 17px;
   }
   .custom {
+    width: 550px;
+    height: 400px;
     padding-bottom: 25px;
   }
   .custom2 {
-    width: 362px;
-    height: 200px;
+    width: 550px;
+    height: 300px;
   }
 }
+
